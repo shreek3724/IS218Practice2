@@ -2,7 +2,7 @@
 from calculator import subtract
 
 
-def test_subtract_positive_numbers():
+def test_subtract():
     # Arrange
     first, second = 5, 2
     expected = 3

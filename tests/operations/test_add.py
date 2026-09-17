@@ -2,7 +2,7 @@
 from calculator import add
 
 
-def test_add_positive_numbers():
+def test_add():
     # Arrange
     first, second = 2, 3
     expected = 5
